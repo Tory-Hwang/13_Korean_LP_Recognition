@@ -1,5 +1,6 @@
 # Korean License Plate Recognition 
-- AIHUB Dataset | YOLOv5 | YOLOv8 | EasyOCR  
+- AIHUB Dataset | YOLOv5 | YOLOv8 | EasyOCR
+- 한국 자동차 번호 인식   
   
 
 ![image](https://github.com/user-attachments/assets/73236976-d84f-45e3-ab66-230d8a0659aa)
